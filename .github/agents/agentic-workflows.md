@@ -44,10 +44,6 @@ Workflows may optionally include:
 - Shared components: `.github/workflows/shared/*.md`
 - Configuration: `https://raw.githubusercontent.com/github/gh-aw/main/.github/aw/github-agentic-workflows.md`
 
-## Important Notes
-
-- When creating or editing agentic workflow files, do not compile them. Only create or update the markdown workflow file.
-
 ## Problems This Solves
 
 - **Workflow Creation**: Design secure, validated agentic workflows with proper triggers, tools, and permissions

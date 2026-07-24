@@ -17,3 +17,4 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 ## Latest GitHub Updates
 
 - Added the create-mona-updater branch to introduce Mona updater.
+- Added an automated workflow that drafts GitHub Info updates from the GitHub Blog and GitHub Changelog for Mona to review.

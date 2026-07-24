@@ -14,3 +14,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 - GitHub Copilot as an AI coding assistant across the IDE, CLI, and GitHub.
 - GitHub Actions as the automation layer behind repository workflows.
 - Recent GitHub Blog and Changelog stories worth watching.
+## Latest GitHub Updates
+
+- Added the create-mona-updater branch to introduce Mona updater.
+- Added an automated workflow that drafts GitHub Info updates from the GitHub Blog and GitHub Changelog for Mona to review.
